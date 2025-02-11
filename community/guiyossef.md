@@ -14,7 +14,7 @@
 
 ## linguagens mais usadas
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=000&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guiyossef&layout=compact&bg_color=000&border_color=000&title_color=E94D5F&text_color=FFF)
 
 ## Skills
 
